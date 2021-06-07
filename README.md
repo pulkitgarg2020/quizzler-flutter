@@ -1,5 +1,7 @@
 # Quizzler ❓
 
+This starting code for this app was provied by [London App Brewery](https://www.appbrewery.co/) in their Complete Flutter Development Bootcamp course on LinkedIn Learning. 
+
 ## The Goal
 
 In this tutorial from LondonAppBrewery I reviewed Stateful and Stateless Widgets as well as learnt about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
