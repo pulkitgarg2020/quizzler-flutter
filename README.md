@@ -20,6 +20,3 @@ A quiz app that tests your general knowledge. As one of the most popular types o
 - private and public modifiers in Dart.
 - How to use Dart lists.
 - The difference between var, const and final.
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
